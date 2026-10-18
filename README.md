@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vtiger Automation Selenium Project
 
 ## Project Overview
@@ -91,3 +92,6 @@ For any inquiries, reach out via GitHub Issues or email.
 ---
 
 This README file provides essential information about the project setup, usage, and contributions.
+=======
+# Vtiger_Automation_Selenium_Project
+>>>>>>> origin/main
